@@ -1,0 +1,16 @@
+{
+  "name": "roblox-player-info",
+  "version": "1.0.0",
+  "description": "Fetch Roblox player information by user ID",
+  "main": "roblox-player-info.js",
+  "scripts": {
+    "start": "node roblox-player-info.js",
+    "detailed": "node roblox-player-detailed.js"
+  },
+  "keywords": ["roblox", "api", "player-info"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
